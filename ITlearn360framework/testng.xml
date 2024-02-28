@@ -1,0 +1,18 @@
+<suite name="Suite">
+	<listeners>
+<listener class-name="com.itlearn.utility.ITestListenerClass"></listener>
+	</listeners>
+	
+	<test name="Solution Central Regression Suite">
+		<classes>
+ <!--    <class name="com.itlearn.testcases.LoginTestDriverData"/> -->
+      
+  <!--      <class name="com.itlearn.testcases.DashboardTestCase"/> -->
+        
+    <!--        <class name="com.itlearn.testcases.LoginTest"/> -->
+        
+         <class name="com.itlearn.testcases.SearchTestcase"/>
+			
+		</classes>
+	</test>
+</suite> 
